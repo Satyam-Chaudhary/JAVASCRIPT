@@ -1,0 +1,36 @@
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(92, 89, 89);
+}
+.container{
+    border: 2px solid black;
+    margin-inline: auto;
+    border-radius: 10px;
+    background-color: black;
+    padding: 20px;
+}
+#countlabel{
+    display: block;
+    text-align: center;
+    font-size: 100px;
+    color: white;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    
+}
+.button{
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 1em;
+    margin: 10px;
+    background-color: #615f5f;
+    color: white;
+}

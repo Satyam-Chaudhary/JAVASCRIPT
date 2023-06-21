@@ -1,4 +1,4 @@
-// consr --> A variable that can't be changed
+// const --> A variable that can't be changed
 
 //circumfarence of a circle
 
